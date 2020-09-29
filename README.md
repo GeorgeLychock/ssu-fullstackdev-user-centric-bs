@@ -44,8 +44,16 @@ This is the main career website for George Lychock. It contains all the job, edu
 ## Features
 
 -   Responsive on all device sizes
+-   Method to show skill set
+-   Method to download resume
+-   Method to view my work history
+-   Method to see what I have been working on in Professional Development
+-   Method to show education history
+-   Method to show what I work on outside of my main career
+-   Method to connect to my github repo
+-   Method to quickly get to my social media sites
 
--   Interactive elements
+
 
 ## Technologies Used
 
