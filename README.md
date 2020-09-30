@@ -32,6 +32,8 @@ This is the main career website for George Lychock. It contains all the job, edu
         -   TBD.
     -   #### Imagery
         -   Images will be kept to a minimum, most likely just a hero image of something that corresponds to George's PD or Education. Also, a sidebar image will be used for all secondary pages.
+    -   #### Iconography
+        -   Use icons in nav elements, social media elements
 
 *   ### Wireframes
 
