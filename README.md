@@ -50,13 +50,16 @@ Release 1
 -   Method to download resume
 -   Design and Apply structure
 -   Define Look and Feel
+
 Release 2
 -   Apply Look and Feel
 -   Method to view my work history
 -   Method to see what I have been working on in Professional Development
+
 Release 3
 -   Method to show education history
 -   Method to show what I work on outside of my main career
+
 Release 4
 -   Method to connect to my github repo
 -   Method to quickly get to my social media sites
