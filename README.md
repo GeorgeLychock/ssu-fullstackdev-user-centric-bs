@@ -41,15 +41,23 @@ This is the main career website for George Lychock. It contains all the job, edu
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
 
-## Features
+## Features and Initial Release Strategy
 
+Release 1
 -   Responsive on all device sizes
+-   Reveal a pitch, a hero image, contact information
 -   Method to show skill set
 -   Method to download resume
+-   Design and Apply structure
+-   Define Look and Feel
+Release 2
+-   Apply Look and Feel
 -   Method to view my work history
 -   Method to see what I have been working on in Professional Development
+Release 3
 -   Method to show education history
 -   Method to show what I work on outside of my main career
+Release 4
 -   Method to connect to my github repo
 -   Method to quickly get to my social media sites
 
@@ -66,22 +74,27 @@ This is the main career website for George Lychock. It contains all the job, edu
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
+2. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-1. [Google Fonts:](https://fonts.google.com/)
+2. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+2. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+3. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+3. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+3. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
+3. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+3. [Jira:](https://www.atlassian.com/software/jira)
+    - Jira was used to track spints and work logs for all work done on the site.
+3. [Confluence:](https://www.atlassian.com/software/confluence)
+    - Confluence was used to document all information around scoping, structure, technologies, and releases for this project.
+
 
 ## Testing
 
