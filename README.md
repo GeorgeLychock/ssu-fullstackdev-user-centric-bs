@@ -39,7 +39,7 @@ This is the main career website for George Lychock. It contains all the job, edu
 
     -   Home Page Wireframe - [View](https://github.com/GeorgeLychock/ssu-fullstackdev-user-centric-bs/blob/master/_documentation/_wireframes/georgelychock-career-desk-01.pdf)
 
-    -   Mobile Wireframe - [View](https://github.com/GeorgeLychock/ssu-fullstackdev-user-centric-bs/blob/master/_documentation/_wireframes/georgelychock-career-desk-02.pdf)
+    -   Mobile Wireframe - [View](https://github.com/GeorgeLychock/ssu-fullstackdev-user-centric-bs/blob/master/_documentation/_wireframes/georgelychock-career-smart-01.pdf)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
 
