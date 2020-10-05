@@ -49,6 +49,8 @@ This is the main career website for George Lychock. It contains all the job, edu
         -   Smartphone first design; to replicate a native app as closely as possible
         -   Re-work Smartphone UX into a desktop experience
         -   wireframes for both scenarios need to be approved prior to prod dev (dev can spend up to 5% of BP budget prior to approval)
+-   ### Structure Regs
+    -   Persistent nav footer on Smartphone viewports
 
 
 ## Approved Features and Initial Release Strategy
