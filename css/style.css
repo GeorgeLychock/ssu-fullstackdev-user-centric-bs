@@ -19,7 +19,6 @@
 
 
 
-
 /* Base Element styles */
 body {
     font-family: 'Roboto', sans-serif;
@@ -29,7 +28,7 @@ body {
 
 /* Container styles */
 
-.container-wrapper {}
+/*.container-wrapper {} */
 
 .container-wrapper--red {
     background-color: #f05f40;
@@ -74,15 +73,12 @@ body {
     padding-top: 75px;
     padding-bottom: 75px;
 }
-.features-container {
+/* .features-container {} */
+/* .quotes-container {} */
 
-}
-.quotes-container {
+/* .favs-container {} */
 
-}
-.favs-container {
 
-}
 
 /* Quotes */
 
